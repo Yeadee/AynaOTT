@@ -27,7 +27,7 @@ if channels_response["message"]== "Success":
         else:
             channel_info["link"] = ""
         data.append(channel_info)
-        print(f"added {channel_info["name"]}")
+        print(f'added {channel_info["name"]}')
         m3u += f'#EXTINF:-1 tvg-id="{channel.get("keyCode","")}" tvg-logo="{channel.get("image","")}", {channel.get("title","")}\n{channel_info["link"]}\n\n'
     with open("aynaott.m3u","w") as m3ufile:
         m3ufile.write(m3u)
