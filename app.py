@@ -1,4 +1,4 @@
-import requests, json
+import requests, json, os
 
 host = os.environ['AYNA_HOST']
 proxy = json.loads(os.environ['BDPROXY'])
