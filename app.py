@@ -20,7 +20,7 @@ m3u = "#EXTM3U \n\n## Made with Love By Pr4nto Bhai => https://t.me/pranto_bhai\
 if channels_response["message"]== "Success":
     for channel in channels_response["content"]["data"]:
         channel_info = {"id": channel.get("keyCode",""), "name": channel.get("title",""), "logo": channel.get("image","")}
-        stream_url = f"{host}api/player/streams?language=en&operator_id={operatorId}&device_id={device_id}&density=1&client=browser&platform=web&os=windows&media_id={channel.get("id","")}"
+        stream_url = f'{host}api/player/streams?language=en&operator_id={operatorId}&device_id={device_id}&density=1&client=browser&platform=web&os=windows&media_id={channel.get("id","")}'
         stream_response = requests.get(stream_url, headers=authorized_header).json()
         if stream_response["message"]=="Success":
             channel_info["link"] = stream_response["content"][0]["src"]["url"]
