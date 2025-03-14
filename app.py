@@ -1,9 +1,10 @@
 import requests, json
 
 host = os.environ['AYNA_HOST']
+proxy = json.loads(os.environ['BDPROXY'])
 
 login_url = f"{host}api/authorization/login"
-login_data = os.environ['LOGIN_DATA']
+login_data = json.loads(os.environ['LOGIN_DATA'])
 login_header = {"Content-Type": "application/json", "Referer": f"{host}authorization"}
 login_response = requests.post(login_url, json=login_data, headers=login_header).json()
 user_id = login_response.get("user_id","")
