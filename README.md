@@ -1,7 +1,7 @@
 # AynaOTT
-AynaOTT is back! Good news, but it's currently in beta mode. So, there's no security. Unlike prior times, the processing is done server-side. Surely they're going to add more security and the processing being server-side, it's going to require a subscription to get access.
-
-I'll try to keep it updated. Enjoy as long as it stays.
+AynaOTT is back!
+This repo is just an example of how you can generate a playlist for yourself. Due to their security in certain channels, all of these generated links may not work always. So I set up another serverless function on vercel which bypasses that security and will work 100%. The link to that playlist is given below. This will generate link for you everytime you choose a channel. So, the generated link will be fresh.
+Cheers!
 
 ## Playlist link
 https://aynaxpranto.vercel.app/files/playlist.m3u
