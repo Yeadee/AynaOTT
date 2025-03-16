@@ -4,6 +4,6 @@ AynaOTT is back! Good news, but it's currently in beta mode. So, there's no secu
 I'll try to keep it updated. Enjoy as long as it stays.
 
 ## Playlist link
-https://raw.githubusercontent.com/Yeadee/AynaOTT/main/aynaott.m3u
+https://aynaxpranto.vercel.app/files/playlist.m3u
 
 This link will work on all iptv players as long as you paste this link properly.
