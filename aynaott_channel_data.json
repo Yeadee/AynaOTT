@@ -3,67 +3,67 @@
     "id": 44,
     "name": "Baby TV",
     "logo": "",
-    "link": "https://tvs1.aynaott.com/babytv/index.fmp4.m3u8?token=86ef1c54f39abb946ba6fc3e969ed9cc0f582817-7fe11b9a28262e9c9997cc8776ad18c4-1742271000-1742259900&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/babytv/index.fmp4.m3u8?token=cb658c5616a2c0346ff4444fa2ca35f260115f12-6266b682eedef4050261a33b31bab2d1-1742285701-1742274601&remote=no_check_ip"
   },
   {
     "id": 24,
     "name": "Bangla TV",
     "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
-    "link": "https://tvs1.aynaott.com/banglatv/index.m3u8?token=c9b85939b40ebc024b5c07f7de75807de34457c6-838167da043801996e11eb628f67d4c3-1742271001-1742259901&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/banglatv/index.m3u8?token=16cfe79c9d3abe50994555e254f177d4bd7a885d-3e972e5290af3823a5dfae1171f6f1cf-1742285701-1742274601&remote=no_check_ip"
   },
   {
     "id": 46,
     "name": "PBS Kids",
     "logo": "https://s3.aynaott.com/storage/cd8ff1c9af0a4c0dcc67ea2bbd999c97",
-    "link": "https://tvs2.aynaott.com/pbskids/index.fmp4.m3u8?token=8267d3f3cce99d3a5304610ec4cc65b00ed9187c-100cc3d111c44fd4a814f930a489c6dc-1742346602-1742259902&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/pbskids/index.fmp4.m3u8?token=99f25b42f9a3b4b87f4a1067ac563637c3f943ea-f0ac863e02e55c1e537f1e321540a417-1742361302-1742274602&remote=no_check_ip"
   },
   {
     "id": 45,
     "name": "Cartoon Network",
     "logo": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
-    "link": "https://tvs2.aynaott.com/cartoonnetwork/index.fmp4.m3u8?token=326a4779db092a8c0762b879aab99835c236197a-06cc71e4c7ef9e48fed0c5ab01d3f0cb-1742346603-1742259903&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/cartoonnetwork/index.fmp4.m3u8?token=474152d5ea60ff7bb557a8c3fa42baae1c1214f7-e9312eb8816956401560cd830a497cc1-1742361303-1742274603&remote=no_check_ip"
   },
   {
     "id": 33,
     "name": "Ananda TV",
     "logo": "https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f",
-    "link": "https://tvs1.aynaott.com/anandatv/index.m3u8?token=b5ab2146e4df04fd19118b14b33f22398937cd8e-091a3a2c429c7b47aacc909ea5f4637a-1742271003-1742259903&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/anandatv/index.m3u8?token=d4d7477423371ae0e74c1a287d8bf99a87815dac-1e29813e14e95e0048be6607b569483c-1742285704-1742274604&remote=no_check_ip"
   },
   {
     "id": 30,
     "name": "Bijoy TV",
     "logo": "https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c",
-    "link": "https://tvs1.aynaott.com/bijoytv/index.m3u8?token=e9d569a22f354966039d8d31fc06853013966311-0033ccb368b9bf185165c483af3e3b40-1742271004-1742259904&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/bijoytv/index.m3u8?token=7ec368a6c97b34d4e6786e0628cc9da2431193a1-6a6de4100152ea4f5366592f97291114-1742285704-1742274604&remote=no_check_ip"
   },
   {
     "id": 34,
     "name": "A sports",
     "logo": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
-    "link": "https://tvs1.aynaott.com/asports/index.m3u8?token=ad10bd80fa83d776f4db8023e9908420297f611d-4bd5a882f94993376860fb5ee7f47705-1742271005-1742259905&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/asports/index.m3u8?token=513b6717ae8de9d291d96193765f13440022d066-be119e404ae52a3a52c48e44b856c67c-1742285705-1742274605&remote=no_check_ip"
   },
   {
     "id": 1,
     "name": "Channel I",
     "logo": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
-    "link": "https://tvs2.aynaott.com/channeli/index.m3u8?token=63de92d0375b7f55e63828aeb9c8558d7da5a738-f14f64396608b7a289ae6cc46e71ae38-1742346606-1742259906&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/channeli/index.m3u8?token=270b11202bf57db548bf8ff787d569a41ad85cec-37a9f4911ddc093e33150f1791821e24-1742361306-1742274606&remote=no_check_ip"
   },
   {
     "id": 3,
     "name": "Bangla Vision",
     "logo": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043",
-    "link": "https://tvs2.aynaott.com/banglavision/index.m3u8?token=4c674c700764c1911d5cdd1b09263711a7b078be-49238ec4e4371f0fd339fe2fc734b9b3-1742346607-1742259907&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/banglavision/index.m3u8?token=f2ef64607c48a7f31f4e68947ec0b813aa6dd4e8-2e10b20adbafbe2414664843f62de8a4-1742361307-1742274607&remote=no_check_ip"
   },
   {
     "id": 2,
     "name": "NTV",
     "logo": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449",
-    "link": "https://tvs2.aynaott.com/ntv/index.m3u8?token=9b3932869e2a9265852ab21e3b6844b8a26b4596-fa1c81df2d02bfc154d092d47d13f343-1742346607-1742259907&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/ntv/index.m3u8?token=7ae0369a0ef0af1cfdab92c7c06a325c59c3eacd-221e9e391443268b5a54e88641b0a557-1742361308-1742274608&remote=no_check_ip"
   },
   {
     "id": 37,
     "name": "Star Sports 1 HD",
     "logo": "https://s3.aynaott.com/storage/c9e99f1518dbf43348b8f4f215de901d",
-    "link": "https://tvs2.aynaott.com/ssport1hd/index.m3u8?token=b01f9016b3d70248c9a04ede174764811885d15f-5aebdf7061055ed2076a952254e93f8d-1742346608-1742259908&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/ssport1hd/index.m3u8?token=5edec8e8464e23b71453060b85c44df8e6e8b02f-63bcca1098d86a144f22be5813707135-1742361308-1742274608&remote=no_check_ip"
   },
   {
     "id": 9,
@@ -75,216 +75,216 @@
     "id": 39,
     "name": "Sports 18",
     "logo": "https://s3.aynaott.com/storage/149569735f2762053eddfc4c353b119d",
-    "link": "https://tvs1.aynaott.com/sports18/index.m3u8?token=98421d0a3054bb5957ff08b484a042795df0778c-773e9c48c1263dc8e46264d61c01aef7-1742271010-1742259910&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/sports18/index.m3u8?token=0d671e1e386754b9a52a6b3365bdbcb034829880-2bbc0c7ddc804d0989d9e77d396d81c5-1742285710-1742274610&remote=no_check_ip"
   },
   {
     "id": 42,
     "name": "Espn",
     "logo": "https://s3.aynaott.com/storage/8a8cfe3e65e5867f60dac376b1ffa2b5",
-    "link": "https://tvs2.aynaott.com/espn/index.m3u8?token=57a70c1fe6d61eab1ebdc2b2914cc2e50d484c97-14821c3ccad7e25ead400c6d95b2fe09-1742346610-1742259910&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/espn/index.m3u8?token=afcced24ec8039232cef71a20470c2cc490b6df1-b108c71511b5c68f3f70694ef3ef4cc5-1742361311-1742274611&remote=no_check_ip"
   },
   {
     "id": 19,
     "name": "SA TV",
     "logo": "https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821",
-    "link": "https://tvs1.aynaott.com/satv/index.m3u8?token=6a294d1cddc3ce25979de4d4254ab2335943a87e-d85d6fcc057066cb52fc5173d9738fc1-1742271011-1742259911&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/satv/index.m3u8?token=1e46773114ded40605a71069ed10b7a68ea7da77-4850d0888d67dd946cfcdc3e25b60a85-1742285711-1742274611&remote=no_check_ip"
   },
   {
     "id": 38,
     "name": "Star Sports Select 2 HD",
     "logo": "https://s3.aynaott.com/storage/45371f1525149ff9facc00fde44bbc59",
-    "link": "https://tvs1.aynaott.com/spsel2/index.m3u8?token=21b83cee9648e2d051da0bca2269250b5f9fb4e7-0caa87d7e0de885d56c37eec44ecf302-1742271012-1742259912&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/spsel2/index.m3u8?token=fb1490cc61d8e8165f84bfe637d8cd4859904f49-99e296f4ab930e11bd1224a44e9545bc-1742285712-1742274612&remote=no_check_ip"
   },
   {
     "id": 41,
     "name": "BT Sports 2",
     "logo": "https://s3.aynaott.com/storage/80fe88a811ebcd50a7fd8271bfe6382d",
-    "link": "https://tvs1.aynaott.com/btSport2/index.m3u8?token=85e09e0521d1acc7c9ee3408aff06f63fd4977f6-7f5eb446161d92ebc409c2c55f634591-1742271013-1742259913&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/btSport2/index.m3u8?token=5a4b1d3037ea03245514bd8c4b803411fc9bbbd9-4b147ceaab4fe258b57e55da84927dcd-1742285713-1742274613&remote=no_check_ip"
   },
   {
     "id": 43,
     "name": "TSN 2",
     "logo": "https://s3.aynaott.com/storage/de9c2811171652e1a43333c7b06da8d4",
-    "link": "https://tvs3.aynaott.com/tsn2/index.m3u8?token=533bc774bc90303be194faf5d8186eb2cc96d847-a0a32210d6aec043383a37ca65c93abe-1742346613-1742259913&remote=no_check_ip"
+    "link": "https://tvs3.aynaott.com/tsn2/index.m3u8?token=4e725737e784e9635eea073c2b5f06c677ac46ec-928356d9d8fef48b1844c0bb6629f7e8-1742361314-1742274614&remote=no_check_ip"
   },
   {
     "id": 32,
     "name": "My TV",
     "logo": "https://s3.aynaott.com/storage/d93b76211f818fcce66e7f44119ce0be",
-    "link": "https://tvs1.aynaott.com/mytv/index.m3u8?token=4a08686743d63b70a73789d8ab5f32ef0df0905a-fb5420589845b101e86c80160be4fa96-1742271014-1742259914&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/mytv/index.m3u8?token=84984fcc50ca4917cc05ebdd48754353111381a4-f7b388846665865fba83a0b82682e075-1742285714-1742274614&remote=no_check_ip"
   },
   {
     "id": 27,
     "name": "Jamuna TV",
     "logo": "https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122",
-    "link": "https://tvs1.aynaott.com/jamunatv/index.m3u8?token=a8318f25fd87c368c95a483dfaa027e4be16c8da-79483b07a9b10b103ca08a036e85c655-1742271015-1742259915&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/jamunatv/index.m3u8?token=63a24b11bf49a2e5c4ad8bcffa2d8b1f55d00a9e-86f00d01717415ec364819e24021ff54-1742285715-1742274615&remote=no_check_ip"
   },
   {
     "id": 29,
     "name": "NEXUS TV",
     "logo": "https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9",
-    "link": "https://tvs1.aynaott.com/nexustv/index.m3u8?token=abd1a1a1fd3bef1ff32982728dc813047811a309-32f996abb9391cadb3f06c89e1ba0357-1742271016-1742259916&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/nexustv/index.m3u8?token=63d8feb08db307c4bb2441dab1b00812baa473e5-6fb5a733059300253a4eac90d051dc70-1742285716-1742274616&remote=no_check_ip"
   },
   {
     "id": 25,
     "name": "Ekattor TV",
     "logo": "https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3",
-    "link": "https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?token=7f5673b75d2ff41c78c08ed86ad97e38ae3d36a8-66b4eb3c5169b927b0a5b4b3cfdca94f-1742271016-1742259916&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?token=c51285b2655242386607a7a5abc7be306442b48b-90386510c37ca46f6a87182985a16df1-1742285716-1742274616&remote=no_check_ip"
   },
   {
     "id": 14,
     "name": "Channel 9",
     "logo": "https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef",
-    "link": "https://tvs1.aynaott.com/channel9/index.m3u8?token=56c1fe09f1a150591f4c3f440c134c3d0965f4f9-69b008abd2096a92aea065e5d8c63100-1742271017-1742259917&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/channel9/index.m3u8?token=a830ad0de493ae98bdccfcb690dde8972f9dfd5b-8c362fd8ae95bb1625f3b0013ee6fa7b-1742285717-1742274617&remote=no_check_ip"
   },
   {
     "id": 7,
     "name": "Maasranga TV",
     "logo": "https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2",
-    "link": "https://tvs2.aynaott.com/maasrangatv.m3u8?e=1742346618&u=b700fe64-8c7d-4980-8407-bb3e690b9cad&token=9a10ffa166b5fa1f862b295aec003d75"
+    "link": "https://tvs2.aynaott.com/maasrangatv.m3u8?e=1742361318&u=b700fe64-8c7d-4980-8407-bb3e690b9cad&token=e0742d8afeb0141b6914fde710f8cb59"
   },
   {
     "id": 22,
     "name": "News 24 BD",
     "logo": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
-    "link": "https://tvs2.aynaott.com/News24/index.m3u8?token=719b375d2441dad65ba8c8541afc9edfc6d4fcfa-a7d1dad5a6f5871770306de18e2472f5-1742346619-1742259919&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/News24/index.m3u8?token=fc82e5e935e59fd9e78657607573914b12a02989-4a04ae53333791c2a7420ca2a20899e5-1742361319-1742274619&remote=no_check_ip"
   },
   {
     "id": 12,
     "name": "Desh TV",
     "logo": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8",
-    "link": "https://tvs1.aynaott.com/deshtv/index.m3u8?token=f1ea1a64c780720965ec26e508d71fe70c0fd7e0-e49df270969a8f2819d37f6ef560b6d2-1742271019-1742259919&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/deshtv/index.m3u8?token=9c136abad315f1e0b9990f0390d3570a0103c55c-2872eee58791489a29740397f03f731e-1742285719-1742274619&remote=no_check_ip"
   },
   {
     "id": 28,
     "name": "Mohona TV",
     "logo": "https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d",
-    "link": "https://tvs1.aynaott.com/mohonatv/index.m3u8?token=d72acc359bb2b850842609f1628d03c155d4cbca-f862570395edbef9110a71e53a607aad-1742271020-1742259920&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/mohonatv/index.m3u8?token=c0a5dbd8e1198b6620fc06793c937899878dedcf-17121b12e3116b215b1f2f1bb986539c-1742285720-1742274620&remote=no_check_ip"
   },
   {
     "id": 11,
     "name": "Gazi TV",
     "logo": "https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c",
-    "link": "https://tvs2.aynaott.com/gtvhd/index.m3u8?token=759cf71f92355e4699310b35f7e81fc78268e613-53d0edbdda136b6324dda1bfb6803ee7-1742346621-1742259921&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/gtvhd/index.m3u8?token=45680bcc8848babd541be0239efc2a1f3ce6aa9e-9075e20f5e2b11efd8d7e024b4b06f6d-1742361321-1742274621&remote=no_check_ip"
   },
   {
     "id": 20,
     "name": "DBC News",
     "logo": "https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe",
-    "link": "https://tvs1.aynaott.com/dbcnews/index.m3u8?token=ce809ec97f573a02fc73f22e6097ac6daac8fcce-b2e3005b93ff19896e4b029daf98da50-1742271022-1742259922&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/dbcnews/index.m3u8?token=98cf5d57ccb4af475d65209b1ba81cfd4c0f7874-6a96b7ad6e2e97b93a986d7c3650400c-1742285722-1742274622&remote=no_check_ip"
   },
   {
     "id": 35,
     "name": "P TV Sports",
     "logo": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73",
-    "link": "https://tvs2.aynaott.com/PtvSports/index.m3u8?token=b91d57f582f8f744c0c98bce6427abb37fecfac1-aa64b1b73c34062e459e010acfebc92a-1742346623-1742259923&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/PtvSports/index.m3u8?token=0648763cc993aa95f0720161d8be6052fa35a3a4-99f38fdc9860101b4e502c900a00b4a6-1742361322-1742274622&remote=no_check_ip"
   },
   {
     "id": 48,
     "name": "Nicktoons",
     "logo": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
-    "link": "https://tvs2.aynaott.com/nicktoons/index.fmp4.m3u8?token=713659a1ef83fa6a361c8257bb84afc24cd12816-e02613df311acd20017625c03061fcf0-1742346623-1742259923&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/nicktoons/index.fmp4.m3u8?token=327efcedf960f2d5a38530472d781b937f1de27d-d5ae1c29a364a1247dc750fc05fd8319-1742361323-1742274623&remote=no_check_ip"
   },
   {
     "id": 40,
     "name": "Bein Sports",
     "logo": "https://s3.aynaott.com/storage/24c8956182cf26b5305233ea94e7bd36",
-    "link": "https://tvs1.aynaott.com/beinsports/index.m3u8?token=9a5b3202bb078af0f3280d165a0c7a7c9373f414-402b8afd863a922965e0b3f56d5e68c9-1742271024-1742259924&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/beinsports/index.m3u8?token=64c50580a6e6335bbcf355469977f7b40d819a08-e9713a1fe58939d3c9f0db43efe858ad-1742285724-1742274624&remote=no_check_ip"
   },
   {
     "id": 49,
     "name": "Nickjr",
     "logo": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
-    "link": "https://tvs2.aynaott.com/nickjr/index.fmp4.m3u8?token=1965a3158b566a8a0b905934fcfa0f475a185473-975f9277c93c9d66a3a08f2ca86353cf-1742346625-1742259925&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/nickjr/index.fmp4.m3u8?token=2e6983b487b43ca5ad6cb8a8426adba0b33bb114-bca03fb4e8f771811b97e8567fd1c47f-1742361324-1742274624&remote=no_check_ip"
   },
   {
     "id": 21,
     "name": "Ekhon TV",
     "logo": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868",
-    "link": "https://tvs1.aynaott.com/ekhontv/index.m3u8?token=7c05bf078126ead3dd67503be63ad2d1fedb7c9e-a2d0c31bd148bbf36946d77f3cb189b9-1742271025-1742259925&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/ekhontv/index.m3u8?token=4a1174153f3206b0c6e5555067d63d18e52fb587-8c7f3f21733bc87b18607f4314c891ff-1742285725-1742274625&remote=no_check_ip"
   },
   {
     "id": 6,
     "name": "ETV",
     "logo": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
-    "link": "https://tvs1.aynaott.com/etv/index.m3u8?token=7d426dc73157850abaac0c56342d1f1ffb15e7ee-6505c13fddc779b46bfd28cf133c77e3-1742271026-1742259926&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/etv/index.m3u8?token=b50e70da464e54968803aee2a00e6e0094d25ff4-53b412fb93d4042ff587e2041111fa45-1742285726-1742274626&remote=no_check_ip"
   },
   {
     "id": 13,
     "name": "Boishakhi TV",
     "logo": "https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc",
-    "link": "https://tvs1.aynaott.com/boishakhitv/index.m3u8?token=17cfe170c555eca56b293278e43648502f43dfb5-a3c5c267a4afb568044314df2a152a57-1742271027-1742259927&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/boishakhitv/index.m3u8?token=5eada0ce0689a7fdca26a4d58ea1bb25b849e7d5-9f9893cc64daa97fd9e09dfd45a5ca4c-1742285727-1742274627&remote=no_check_ip"
   },
   {
     "id": 36,
     "name": "Fox Sports 2",
     "logo": "https://s3.aynaott.com/storage/498a04d4cec05dfc06989b7a0a84bcc1",
-    "link": "https://tvs3.aynaott.com/foxsports2/index.m3u8?token=2d1a8ee65d12bbad63de3b5bc234a87a24de7971-c52c9f0dfe5e28ca1f2bd7d2ddee762f-1742346628-1742259928&remote=no_check_ip"
+    "link": "https://tvs3.aynaott.com/foxsports2/index.m3u8?token=7a9edbeb5550d296c60b409dd2997511bceb7e84-da19d7513789201d0a8282090bf40348-1742361327-1742274627&remote=no_check_ip"
   },
   {
     "id": 15,
     "name": "Channel 24",
     "logo": "https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527",
-    "link": "https://tvs1.aynaott.com/channel24/index.m3u8?token=48a98db861d541ab6155dbc3e59394e05948c566-96be3746ce33a55b2e2c61a0cf3fbbd7-1742271028-1742259928&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/channel24/index.m3u8?token=390c79da5312251655f769661618ef748350855f-535dcfa890ec5a39957ea33aca3f0ae8-1742285728-1742274628&remote=no_check_ip"
   },
   {
     "id": 23,
     "name": "Duronto TV",
     "logo": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc",
-    "link": "https://tvs1.aynaott.com/durontotv/index.m3u8?token=e04e2e8714d39f19490f49375d4b6deb4327278c-618e52e58c96cf1d8573aeea156a3df3-1742271029-1742259929&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/durontotv/index.m3u8?token=8433ad8b7555613a239e844f3c9906b7b88e550e-9946112d6767c84c3276cf181934c63e-1742285729-1742274629&remote=no_check_ip"
   },
   {
     "id": 17,
     "name": "ATN News",
     "logo": "https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a",
-    "link": "https://tvs1.aynaott.com/atnnews/index.m3u8?token=e3405dbb8daae5c039b4af5cfaa1f9493a1d3850-9ffee6c68f1ee355a89d4cc7e4cea4e1-1742271030-1742259930&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/atnnews/index.m3u8?token=ad28c4b39f1f95566c673c2281d7957e2b3543ba-37162272df8137fdd2d581651af4c7da-1742285730-1742274630&remote=no_check_ip"
   },
   {
     "id": 5,
     "name": "ATN Bangla",
     "logo": "https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22",
-    "link": "https://tvs2.aynaott.com/atnbangla/index.m3u8?token=7813b10589803e71dc441fc2c9b93c79a1db57ed-70bbcf2807205baf94ca2a1f1ae2ece7-1742346631-1742259931&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/atnbangla/index.m3u8?token=8561015500c2ce36e815b5e5748ef8ebee451450-1841c498099a914cc6f9536b0730d0a6-1742361330-1742274630&remote=no_check_ip"
   },
   {
     "id": 31,
     "name": "Global TV",
     "logo": "https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b",
-    "link": "https://tvs1.aynaott.com/globaltvhd/index.m3u8?token=c289f3848197f329a7f37c007ee1adee093cab89-022fa82de9a64002db2b20f7f56ca7cb-1742271031-1742259931&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/globaltvhd/index.m3u8?token=2713f6e736ef8ad770528bd74c52978eaaf348e4-42922453a711d029cbc59c55f56e6e9f-1742285731-1742274631&remote=no_check_ip"
   },
   {
     "id": 16,
     "name": "Asian TV",
     "logo": "https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024",
-    "link": "https://tvs1.aynaott.com/asiantv/index.m3u8?token=0a7f4e65e5798e788d9bf2dcfe8b31c1115fa5ca-d0751bd73ab52bf829c45125a8103033-1742271032-1742259932&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/asiantv/index.m3u8?token=66cd33caa6221768d955dfdae2371b1749102c58-5a9284c9625afb5fed181255e28264c3-1742285732-1742274632&remote=no_check_ip"
   },
   {
     "id": 10,
     "name": "T Sports HD",
     "logo": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
-    "link": "https://tvs2.aynaott.com/tsportshd/index.m3u8?token=88b9a8a9a2d3b3d684a2118bda33b07b011373a4-7b731d384c47efecc92e195ef029d54f-1742346633-1742259933&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/tsportshd/index.m3u8?token=907fcc5239e50ada0d191039c6647b0eced3d94c-07d020beb1ededc7ec5fb4a585bfc889-1742361333-1742274633&remote=no_check_ip"
   },
   {
     "id": 18,
     "name": "Independent TV",
     "logo": "https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234",
-    "link": "https://tvs1.aynaott.com/independenttv/index.m3u8?token=f07f375cf35784f8d3667ec14efdc5cb45b0c999-5e33a5ac7506c759e292723dbde89440-1742271033-1742259933&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/independenttv/index.m3u8?token=83a2c346c9b40d6ee8f8d9024e858b87ff39f66f-345d2bada213cc4656f838e8c8b46ed6-1742285733-1742274633&remote=no_check_ip"
   },
   {
     "id": 8,
     "name": "Deepto TV",
     "logo": "https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8",
-    "link": "https://tvs2.aynaott.com/deeptotv/index.m3u8?token=131c021076bc9150b77ac39c1226b86099779fc8-62bd409ad3c3068aed6cd6982abe8271-1742346634-1742259934&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/deeptotv/index.m3u8?token=b9235a699b7bad66dfb025c374c6e68f37725a9f-cc073c8b9442c71dc2716f69a6f106f7-1742361334-1742274634&remote=no_check_ip"
   },
   {
     "id": 47,
     "name": "Disney JR",
     "logo": "https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d",
-    "link": "https://tvs2.aynaott.com/disney/index.fmp4.m3u8?token=fc3b14057026bd4afbb297925625cabfe16b4b4e-93ca4ee19afca16eb4ac75326b521930-1742346635-1742259935&remote=no_check_ip"
+    "link": "https://tvs2.aynaott.com/disney/index.fmp4.m3u8?token=8ef835180699e0abfbc7b232bcde3164f7ec70b4-aba0fa2d25226ef36c7130e7c5d680ea-1742361335-1742274635&remote=no_check_ip"
   },
   {
     "id": 4,
     "name": "RTV",
     "logo": "https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991",
-    "link": "https://tvs1.aynaott.com/rtv/index.m3u8?token=367b1f50b12b67ead21283ba21f11f02697f7e5d-36601644cd8e0ed77b64e0e8363174ba-1742271036-1742259936&remote=no_check_ip"
+    "link": "https://tvs1.aynaott.com/rtv/index.m3u8?token=9100df14b5f12b0395805758da6f65c53560a1db-56b7af1e82384abe6c904279e7f40c79-1742285735-1742274635&remote=no_check_ip"
   }
 ]
