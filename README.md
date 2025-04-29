@@ -7,7 +7,7 @@ Cheers!
 https://aynaxpranto.vercel.app/files/playlist.m3u
 
 ### Shortened link
-https://rebrand.ly/AynaNS
+https://rebrand.ly/AynaNS <br />
 https://rebrand.ly/AynaVLC
 
 Any of these above links will work on all iptv players as long as you paste this link properly.
